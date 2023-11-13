@@ -1,5 +1,5 @@
 {
-  "name": "actions",
+  "name": "@fb921/actions",
   "version": "1.0.0",
   "description": "git actions initialisation",
   "main": "index.js",
