@@ -2,7 +2,9 @@
   "name": "@fb921/actions",
   "version": "1.0.0",
   "description": "git actions initialisation",
+  "private":false,
   "main": "index.js",
+  "type":"commonjs",
   "scripts": {
     "test": "node index.js"
   },
